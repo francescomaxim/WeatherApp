@@ -143,3 +143,9 @@ h2{
 .iconn{
     width: 30px;
 }
+
+footer{
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+}
